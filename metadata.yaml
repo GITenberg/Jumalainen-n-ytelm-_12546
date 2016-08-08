@@ -1,0 +1,44 @@
+_repo: Jumalainen-n-ytelm-_12546
+_version: 0.0.1
+alternative_title: Divine Comedy, Complete
+contributor:
+  translator:
+    agent_name: Leino, Eino
+    aliases:
+    - Lönnbohm, Armas Eino Leopold
+    - Lonnbohm, Armas Eino Leopold
+    - Vilkastus, Mikko
+    - Sepeteus, Kanttori
+    - Leino, Armas Eino Leopold
+    - Lönnbohm, Armas Einar Leopold
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12546'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+- GITenberg
+title: Jumalainen näytelmä
+url: http://www.gutenberg.org/ebooks/12546
