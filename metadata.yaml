@@ -1,5 +1,5 @@
 _repo: Jumalainen-n-ytelm-_12546
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Divine Comedy, Complete
 contributor:
   translator:
@@ -18,6 +18,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Eino_Leino
     - http://fi.wikipedia.org/wiki/Eino_Leino
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dante Alighieri
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12546#Jumalainen-n-ytelm-
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
